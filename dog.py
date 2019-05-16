@@ -1,10 +1,9 @@
-#coding=utf-8
 # -- coding: utf-8 --
 
 #2019-05-16
 
 class Dog():
-	"""≤‚ ‘"""
+	"""1"""
 	
 	def __int__(self, name, age):
 		"""2"""
